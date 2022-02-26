@@ -155,6 +155,9 @@
 			% Define ability to change the color of the text
 		\usepackage[dvipsnames]{xcolor}
 		
+			% allow to use the \justify 
+		\usepackage{ragged2e}
+		
 		\begin{document}
 			
 			\section{title1}
@@ -186,6 +189,19 @@
 				\begin{flushright}
 					\lipsum[3-5]
 				\end{flushright}
+				
+			\section{title4}
+				% format all following paragrapsh centered
+				\centering
+				\lipsum[4-5]
+				
+			\section{title five}
+			\lipsum[5]
+	
+			\section{title six}
+			% re- justify all following paragraphs
+			\justify
+			\lipsum[6]	
 			
 		\end{document}
 

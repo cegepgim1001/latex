@@ -6,6 +6,9 @@
 % define ability to change the color of the text
 \usepackage[dvipsnames]{xcolor}
 
+% allow to use the \justify 
+\usepackage{ragged2e}
+
 \begin{document}
 	
 	\chapter*{Preface}
@@ -41,9 +44,11 @@
 	
 	
 	\section{title four}
+	\centering
 	\lipsum[4]
 	
 	\section{title five}
+	\justify
 	\lipsum[5]
 	
 	\section{title six}
