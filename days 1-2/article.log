@@ -1,0 +1,874 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.19)  26 FEB 2022 10:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./article.tex
+(article.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-05>
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr
+.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage
+.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys
+2e\l3keys2e.sty
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.st
+y
+Package: expl3 2022-02-05 L3 programming layer (loader) 
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count194
+\l__lipsum_a_int=\count195
+\l__lipsum_b_int=\count196
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd
+.tex))
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflsca
+pe.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.s
+ty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics
+.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\grap
+hics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdft
+ex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.st
+y
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count197
+\mult@box=\box51
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count269
+\c@columnbadness=\count270
+\c@finalcolumnbadness=\count271
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count272
+) (article.aux)
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 30.
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen148
+\scratchbox=\box96
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen149
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks17
+)
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\isi.751FJW2\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Lorem ip-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sum do-lor sit
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tuer adi-pi-scing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 elit, ve-sti-bu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ac, adi-pi-scing
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ra-bi-tur dic-tum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Nam arcu li-
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 eget, con-sec-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 bi-tant morbi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ma-le-suada fa-
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 mes ac tur-pis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 vi-verra me-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 rhon-cus sem.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ul-tri-ces bi-ben-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ra-bi-tur auc-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sem-per nulla.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Do-nec va-rius
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 m-san elei-fend,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sa-git-tis quis,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 orci sit amet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 orci di-gnis-sim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 gula, frin-gilla
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 din vel, wisi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Morbi auc-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ali-quet, tor-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sed ac-cu-m-san
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 li-gula ali-quet
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Su-spen-disse ut
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 to-que pe-na-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 dis par-tu-rient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tur ri-di-cu-lus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tes-que cur-sus
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 pat at, tin-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 dunt tri-sti-que,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 no-nummy pel-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 len-tes-que ante.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Pha-sel-lus adi-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 pi-scing sem-per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 diam tur-pis,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 mo-le-stie vi-tae,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Mae-ce-nas la-ci-
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 li-gula, elei-fend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 at, ac-cu-m-san
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 blan-dit li-gula
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 feu-giat ma-gna.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Nunc elei-fend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 con-se-quat lo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sent eui-smod
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Do-nec bi-ben-
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 dum quam in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 vul-pu-tate me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tus eu enim.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 len-tes-que fe-lis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 la-m-cor-per pla-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ce-rat ip-sum.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Cras nibh.
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Morbi vel ju-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tin-ci-dunt ul-
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tuer adi-pi-scing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 bi-tasse pla-tea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 te-ger tem-pus
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Etiam fa-ci-li-sis.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Nunc ele-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 li-ci-tu-din, fe-lis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 odio pla-ce-rat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 vi-tae tor-tor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Proin tem-pus
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 nibh sit amet
+ []
+
+[1{C:/Users/isi.751FJW2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+]
+Underfull \hbox (badness 6236) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Fusce mau-
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ben-dum, nulla
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ve-ne-na-tis arcu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tes-que, au-gue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 suere, tur-pis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 la-cus con-gue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Nulla fa-ci-lisi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 frin-gilla, wisi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ter-dum, ju-sto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 lec-tus sa-git-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tem-por li-gula
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 nulla. Nulla
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Suspendisse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 lao-reet vi-tae,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 fau-ci-bus pede
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ma-le-suada sit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 amet, fer-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Quis-que ve-hi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ul-tri-cies auc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 con-val-lis elit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Do-nec luc-tus.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Cu-ra-bi-tur et
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 modo pre-tium,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ul-tri-cies non,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 est, no-nummy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 in, fer-men-tum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 fau-ci-bus, ege-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Sed com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 modo po-suere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 cula hen-dre-rit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ha-bi-tasse pla-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tea dic-tu-mst.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Pel-len-tes-que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 pel-len-tes-que,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sem-per, nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 tri-cies tel-lus.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 li-tora tor-quent
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 fau-ci-bus, ve-hi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Pellentesque
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 ma-le-suada fa-
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 mes ac tur-pis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 nec odio elit,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sa-pien ali-quet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 quam ve-sti-bu-
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 lec-tus, con-sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 sec-te-tuer sed,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Sed port-ti-tor.
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 Su-spen-disse eu
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 amet, pla-ce-rat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 et, mol-lis vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 eu, ma-le-suada
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+ [3] [4
+
+] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10 Nam dui li-gula,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/10 Nulla ma-le-suada
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 Vi-va-mus vi-verra fer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 Ve-sti-bu-lum pel-len-tes-
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/10 Quisque ul-la-m-cor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 per pla-ce-rat ip-sum.
+ []
+
+[7
+
+] 
+AED: lastpage setting LastPage
+[8] (article.aux) ) 
+Here is how much of TeX's memory you used:
+ 2107 strings out of 478584
+ 39374 string characters out of 2841569
+ 431305 words of memory out of 3000000
+ 20301 multiletter control sequences out of 15000+600000
+ 471687 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,12n,77p,243b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/isi.751FJW2/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/isi.751FJW2/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/isi.751F
+JW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr8.pfb>
+Output written on article.pdf (8 pages, 78397 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

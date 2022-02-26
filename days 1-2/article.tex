@@ -1,0 +1,68 @@
+% \documentclass[twocolumn]{article}
+\documentclass{article}
+
+% Packages
+\usepackage{fancyhdr}
+	\pagestyle{fancy}
+\usepackage{lastpage} 
+\usepackage{lipsum}
+% \usepackage[landscape]{geometry}
+% \usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{multicol}
+
+% Define Header
+\lhead{\today}
+\chead{}
+\rhead{Draft}
+
+% Define Footer
+\lfoot{Surname, Name}
+\cfoot{sample.pdf}
+\rfoot{Page \thepage of \pageref{LastPage}}
+
+% Define width of horizontal line in the header
+\renewcommand{\headrulewidth}{5pt}
+
+% Define width of horizontal line in the footer
+\renewcommand{\footrulewidth}{5pt}
+
+\begin{document}
+	
+	% Setting the empty space between the columns
+	\setlength{\columnsep}{20pt}
+	% Setting the the with of a separator between the columns
+	\setlength{\columnseprule}{5pt}
+		
+	\section{title1}
+	% Start multi- columns (4)
+	\begin{multicols}{4}
+		\lipsum[1-8]
+	\end{multicols}
+	% Start on a new page
+	\pagebreak
+	\section{title2}
+	
+	% Create a footnote
+	\lipsum[1-2] Test- footnote No1\footnote{blah-blah one}
+
+	% Start a page as "Landscape"
+	\begin{landscape}
+		\section{in-between}
+		\lipsum[1-10]
+	\end{landscape}
+
+	\section{title4}
+	\begin{multicols}{3}
+		\lipsum[1-2]
+		
+		% Manually break the columns (2)
+		\columnbreak
+		\lipsum[3-4]
+		
+		\columnbreak
+		\lipsum[5-6]
+	\end{multicols}
+	
+	
+\end{document}

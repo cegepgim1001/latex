@@ -1,0 +1,60 @@
+\documentclass{book}
+
+\usepackage{lipsum}
+\usepackage[a4paper, inner=1in, outer=2in, top=1in, bottom=1in]{geometry}
+
+% define ability to change the color of the text
+\usepackage[dvipsnames]{xcolor}
+
+\begin{document}
+	
+	\chapter*{Preface}
+	\lipsum[9]
+	\pagenumbering{roman}
+%	\setcounter{page}{1}
+	
+	\tableofcontents
+		
+	\chapter{Overview}
+	\pagenumbering{arabic}
+%	\setcounter{page}{1}
+	\lipsum[10]
+	
+	\section{title one}
+	% Define the font size (tiny)
+	\tiny
+	\lipsum[1]
+	
+	\section{title two}\
+	% Define the font size back to "normal"
+	\normalsize
+	\lipsum[2]
+	\emph{\\Test- text} done by \underline{The Student}
+	\textcolor{red!50!blue}{\\Text with color- mixtures}
+	
+	\section{title three}
+	\tiny
+	\lipsum[3]
+	
+	\section{title four}
+	\lipsum[4]
+	
+	\section{title five}
+	\lipsum[5]
+	
+	\section{title six}
+	\lipsum[6]
+	
+	\section{title seven}
+	\lipsum[7]
+	
+	\chapter{Annex}
+	\pagecolor{Goldenrod!30}
+	\pagenumbering{Alph}
+%	\setcounter{page}{1}
+	\lipsum[5-10]
+	
+\end{document}
+
+
+

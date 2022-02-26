@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>LaTeX</title>	
+	</head>
+	<body>
+		<pre>
+
+		% section levels :
+			-1.	\part{...}		%: article, report, book
+			 0.	\chapter{...}		%: n/a,     report, book
+					\chapter[alias]{... very long name ...}
+					\chapter*{Introduction}
+			 1.	\section{...}		%: article, report, book
+					\section[alias]{... very long name ...}
+			 2.	\subsection{...}	%: article, report, book
+					% there won't be any entry of "Introduction", and "Time-Table" 
+					% in the TOC, because of the  "*"
+					\subsection*{Time-Table}
+			 3.	\subsubsection{...}	%: article, report, book
+			 4.	\paragraph{...}		%: article, report, book
+			 5.	\subparagraph{...}	%: article, report, book
+			 
+		% special characters like ! @ * ( ) - + = ? [ ] / can be written as is in the document, 
+		% unlike them, there are certain characters which need to be written with 
+		% an escape character (\), else they either throw an error or do not display the way we want - 
+		% some of them are $ & % _ {  } # which are thus are written as \$  \&  \%  \_  \{   \}   \#
+
+		% hyphen  (-)  is mostly used in between two words,  e.g. (two-sided),
+		% en- dash  (\textendash)  is mostly used when specifying range of pages, 
+		% years, etc.,  e.g.  pages 5 -- 7 explain  xyz
+		% em- dash  (\textemdash) ( longer than En dash) is mostly used in place 
+		of parentheses or colon.,  e.g.  Where there is love there is life --- Mahatma Gandhi
+
+		% single and double quotes in a document are usually written using  '...'  and  "..." , 
+			%  `  symbol represents the opening of quotes while  '  represents the closing of quotes
+
+
+		==================================================================================================
+		 <img src="font_size_1.png" alt="Format Text"> 
+		 
+		 <br>
+
+		<img src="font_size_2.png" alt="Format Text"> 
+
+
+		==================================================================================================
+		% in LaTeX, a document can have only  one  class  but  many  packages
+		\documentclass[{article}][{report}]{book}
+				% class files have  .cls-  extension and are responsible for the overall layout, 
+				% structuring (organizing), and formatting of a document,
+					% \command{argument}
+		\usepackage{lipsum}
+			% <a href="https://blog.chapagain.com.np/latex-generate-dummy-text-lorem-ipsum-in-your-document/">
+			% generate dummy text (lorem ipsum - 150 paragraphs) in your document :</a>
+			% <br>
+		\usepackage[a5paper, inner=1in, outer=2in, top=1in, bottom=1in]{geometry}
+		% \usepackage[a4paper, margin=2in]{geometry}
+		% \usepackage[a4paper, top=2in, left=0.5in, right=.5in, bottom=2in]{geometry}
+			% packages have a  .sty-  extension also called as style files, and their 
+				% primary objective is to add some functionality, irrespective of the class 
+				% in which it will be used
+					% \usepackage[Parameter1, ..., ParameterN]{PackageName}
+		
+		\title{... what's the title of the doc ...}
+		\author{... the name of the author ...}
+		\date{\today}
+			
+		\begin{document}
+			% <a href="https://www.ee.iitb.ac.in/~trivedi/LatexHelp/latex/ltx-27.html">
+			% begin of an Environment in latex :</a>
+			% <br>
+							
+			\maketitle	
+				% <a href="https://www.ee.iitb.ac.in/~trivedi/LatexHelp/latex/ltx-263.html">
+				% the  \maketitle-  command generates a title on a separate title page - except 
+				% in the article style, where the title normally goes at the top of the first page :</a>
+				% <br>
+									
+			\chapter*{Preface}
+				% there won't be any entry of "Preface" in the  TOC,  because of the  "*"
+			% \paragraph{}
+				% or
+			\lipsum[1]
+			\pagenumbering{roman}
+				% creating roman page numbers for the  Preface,  and  TOC
+			% \setcounter{page}{1}
+				% this is the default one, and might be skipped
+				
+			\tableofcontents
+				% 2 x F5 so to be properly generated
+				% you need also  \chapter  from  \documentclass{book}  so to avoid  0.1,  \\
+				% shown into the  TOC,  e.g. ...
+								
+			\chapter{Chapter 1}
+			\pagenumbering{arabic}
+				% creating the arabic page numbers for all other Chapters
+			% \setcounter{page}{1}
+				% this is the default one, and might be skipped
+						
+			% ... the content ...
+				% or
+			% ... several lines \\
+			% of long content ...
+				% or
+			\lipsum[2-9]
+				
+			\chapter{Annex}
+			\pagenumbering{alph}
+				% creating the alpha- numeric page numbers for the Annex other Chapter
+			\setcounter{page}{1}
+				% this is the default one, and might be skipped
+			\lipsum[10]
+				
+		\end{document}
+			% end of an environment
+
+
+		=================================================================================================
+		\documentclass{article}
+
+			% Packages
+		\usepackage{lipsum}
+
+			% changes  ALL  pages to  landscape
+		% \usepackage[landscape]{geometry}
+			% rotate to  deg 90  the text within the page
+		% \usepackage{lscape}
+			%rotate the page to  deg 90
+			
+		\usepackage{pdflscape}
+		\usepackage{fancyhdr}
+		% <a href="https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/">
+		% header/footer in latex with  fancyhdr :</a>
+		% <br>
+			\pagestyle{fancy}
+		\usepackage{lastpage} 
+
+			% Define Header
+		\lhead{\today}
+		\chead{}
+		\rhead{Draft}
+
+			% Define Footer
+		\lfoot{Surname, Name}
+		\cfoot{sample.pdf}
+		\rfoot{Page \thepage of \pageref{LastPage}}
+
+			% Define width of horizontal line in the header
+		\renewcommand{\headrulewidth}{5pt}
+
+			% Define width of horizontal line in the footer
+		\renewcommand{\footrulewidth}{5pt}
+		
+			% Define ability to change the color of the text
+		\usepackage[dvipsnames]{xcolor}
+		
+		\begin{document}
+			
+			\section{title1}
+			% Define the font size (tiny)
+			\tiny
+			\lipsum[1-2]
+			
+			\pagebreak
+			\section{in-between}
+			% Define the font size, back to "normal"- size
+			\normalsize
+			\lipsum[1-2]
+			\emph{\\Test- text} done by \underline{The Student}
+			\textcolor{red!50!blue}{\\Text with color- mixtures}
+			
+			\begin{landscape}
+				\section{title2}
+				% Define the page color with mixturing the specified 
+				% color, and white color
+				\pagecolor{Goldenrod!40}
+				% Define the font size (tiny)
+				\tiny
+				\lipsum[1-2]
+			\end{landscape}
+			
+		\end{document}
+
+		</pre>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
