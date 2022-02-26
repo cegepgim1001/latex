@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.19)  26 FEB 2022 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.19)  26 FEB 2022 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,26 +194,26 @@ Chapter 1.
 Chapter 2.
 [1
 
-] (book.aux) ) 
+] [2] (book.aux) ) 
 Here is how much of TeX's memory you used:
  2531 strings out of 478584
  42777 string characters out of 2841569
- 439124 words of memory out of 3000000
+ 437124 words of memory out of 3000000
  20738 multiletter control sequences out of 15000+600000
  472083 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,77p,291b,163s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx10.pfb><C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/isi.751FJW2/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/isi.751FJW2
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/User
-s/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb><C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmti10.pfb>
-Output written on book.pdf (7 pages, 98481 bytes).
+ 68i,6n,77p,291b,157s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/isi.751FJW2/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/isi.751FJW2/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/isi.751
+FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/
+Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsl10.pfb><C:/Users/isi.751FJW2/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb>
+Output written on book.pdf (8 pages, 99251 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
